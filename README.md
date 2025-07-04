@@ -4,7 +4,7 @@
 🚀 Passionate about web development, programming, and building real-world tech solutions  
 🔍 Actively looking for part-time jobs and internships to gain practical experience
 
-🔗 [`Personal Portfolio`](https://ankitmishra-dev.vercel.app)
+🔗 [`Personal Portfolio`]( https://ankitmishra2005.github.io/My-Portfolio/)
 
 ---
 
@@ -64,7 +64,7 @@ A console-based project that manages student records using **Arrays**, **Linked 
 
 ---
 
-### 🌍 [Personal Portfolio](https://ankitmishra2005.github.io/Marvel-Studio) 
+### 🌍 [Personal Portfolio](https://ankitmishra2005.github.io/My-Portfolio) 
 > My digital portfolio built using **HTML, CSS, JavaScript**, and soon migrating to **React** for interactivity.
 
 **Includes:**
@@ -74,7 +74,7 @@ A console-based project that manages student records using **Arrays**, **Linked 
 - Certificates Section (View without download)
 - Contact Form
 
-🔗 [`Personal Portfolio`](https://ankitmishra-dev.vercel.app)  
+🔗 [`Personal Portfolio`]( https://ankitmishra2005.github.io/My-Portfolio/)  
 
 ---
 

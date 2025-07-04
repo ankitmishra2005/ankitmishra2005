@@ -4,7 +4,7 @@
 🚀 Passionate about web development, programming, and building real-world tech solutions  
 🔍 Actively looking for part-time jobs and internships to gain practical experience
 
-🔗 [`Personal Portfolio`]( https://ankitmishra2005.github.io/My-Portfolio/)
+🔗 [Personal Portfolio]( https://ankitmishra2005.github.io/My-Portfolio/)
 
 ---
 
